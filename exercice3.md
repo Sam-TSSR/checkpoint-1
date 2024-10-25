@@ -1,14 +1,14 @@
 #Exercice 3 - Quiz
 
-1- **cat /etc/passwd**
+1. **cat /etc/passwd**
 
-2- **chmod myfile**
+2. **chmod myfile**
 
-3- créer un fichier **".gitignore"** et après ajouté une ligne **"*.pdf"**
+3. créer un fichier **".gitignore"** et après ajouté une ligne **"*.pdf"**
 
-4- **git merge** 
+4. **git merge** 
 
-5- 
+5. 
 
   -echo "Bonjour est-ce que ce clavier fonctionne bien ?"
   
@@ -18,14 +18,14 @@
   
   -echo "Evidemment !"
   
-6- 
+6. 
 
-7- 
+7. 
 
   -Couche 2: Liason de données **adresse MAC**
   
   -Couche 3: Réseau **adresse IP**
-8-
+8.
 
   -cd = **cd**
   
@@ -35,6 +35,6 @@
   
   -ls = **ls** (On peux trouver equivalence en utilisant **Get-Command**)
   
-9- **Payload** est une partie dans la trame ethernet qui continent les données utiles.
+9. **Payload** est une partie dans la trame ethernet qui continent les données utiles.
 
-10- Pour eviter le gaspillage des IPs
+10. Pour eviter le gaspillage des IPs
