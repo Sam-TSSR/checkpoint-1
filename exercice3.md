@@ -9,6 +9,7 @@
 4- **git merge** 
 
 5- 
+
   -echo "Bonjour est-ce que ce clavier fonctionne bien ?"
   
   -echo -e "Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\ !"
@@ -20,10 +21,12 @@
 6- 
 
 7- 
+
   -Couche 2: Liason de données **adresse MAC**
   
   -Couche 3: Réseau **adresse IP**
 8-
+
   -cd = **cd**
   
   -cp = **Copy-Item**
