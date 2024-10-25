@@ -10,13 +10,15 @@
 
 5- 
 
-  -echo "Bonjour est-ce que ce clavier fonctionne bien ?"
+  -echo -e "Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :"
+
+  -echo -e "- Bonjour est-ce que ce clavier fonctionne bien ?"
   
-  -echo -e "Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\ !"
+  -echo -e "- Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\ !"
   
-  -echo -e "Même des tildes ~ ?"
+  -echo -e "- Même des tildes ~ ?"
   
-  -echo "Evidemment !"
+  -echo -e "- Evidemment !"
   
 6- 
 
