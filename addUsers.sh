@@ -31,4 +31,5 @@ fi
 		fi
 	done
 	exit 0
-	
+ 
+#chmod u+x addUsers.sh et ./addUsers.sh	
